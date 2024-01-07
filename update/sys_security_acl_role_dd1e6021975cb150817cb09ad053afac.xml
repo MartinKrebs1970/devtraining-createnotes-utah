@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_security_acl_role">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-04-10 15:48:52</sys_created_on>
-        <sys_id>208b6569090232007f44e1046c8ff68e</sys_id>
+        <sys_created_on>2023-07-27 13:44:27</sys_created_on>
+        <sys_id>dd1e6021975cb150817cb09ad053afac</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_createnotes_note.x_snc_createnotes.note_user</sys_name>
         <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
         <sys_policy/>
         <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
-        <sys_security_acl display_value="x_snc_createnotes_note">648b6569090232007f44e1046c8ff68b</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_208b6569090232007f44e1046c8ff68e</sys_update_name>
+        <sys_security_acl display_value="x_snc_createnotes_note">511e6021975cb150817cb09ad053afaa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd1e6021975cb150817cb09ad053afac</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-10 15:48:52</sys_updated_on>
-        <sys_user_role display_value="x_snc_createnotes.note_user" name="x_snc_createnotes.note_user">037be169090232007f44e1046c8ff602</sys_user_role>
+        <sys_updated_on>2023-07-27 13:44:27</sys_updated_on>
+        <sys_user_role display_value="x_snc_createnotes.note_user" name="x_snc_createnotes.note_user">cd1ee46d971cb150817cb09ad053af39</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>
